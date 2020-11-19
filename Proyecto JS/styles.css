@@ -1,0 +1,61 @@
+body {
+  background-color: #3331be;
+}
+
+div {
+  border-radius: 10px;
+  margin: 7px;
+}
+
+div .row {
+  background-color: #3331be;
+}
+
+div .col {
+  background-color: #3946be;
+}
+
+div .psico {
+  background-color: #3946be;
+  height: 50px;
+}
+
+input {
+  background-color: #7f86c4;
+  border-radius: 15px;
+  border: none;
+  margin: 3px 0px 3px 0px;
+}
+
+h1 {
+  color: whitesmoke;
+}
+
+select {
+  background-color: #3946be;
+}
+
+button {
+  background-color: yellowgreen;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 170px;
+  height: 70px;
+}
+
+.centrado {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.margenes {
+  margin: auto;
+}
+/*# sourceMappingURL=styles.css.map */

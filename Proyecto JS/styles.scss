@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(51, 49, 190) ;
+}
+div{
+ 
+    border-radius: 10px;
+    margin: 7px;
+    .row{
+        background-color: rgb(51, 49, 190);
+    }
+    .col{
+        background-color: rgb(57, 70, 190);
+    }
+    .psico{
+        background-color: rgb(57, 70, 190);
+        height: 50px;
+    }
+}
+input{
+    background-color:  rgb(127, 134, 196);
+    border-radius: 15px;
+    border: none;
+    margin:3px 0px 3px 0px;
+    
+}
+h1{
+    color: whitesmoke;
+}
+
+
+
+select{
+    background-color:  rgb(57, 70, 190);
+}
+button{
+    background-color: yellowgreen;
+    border: 2px solid black ;
+    border-radius: 10px;
+    width: 170px;
+    height: 70px;
+    
+}
+
+//CLASES
+.centrado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.margenes{
+    margin: auto;
+}
